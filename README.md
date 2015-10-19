@@ -18,7 +18,7 @@ Only one design ensures consistency and modularity. Up to 5 modules can be assem
 
 In order to accomodate most applications a parametric version of the UVM is available. It is written in JavaScript and can be viewed and optimised using the online tool [OpenJSCAD](http://openjscad.org). The tool also allows to export a 3D printable `.stl` files.
 
-Simply drag and drop the `universal_vertex_module.jscad` file to the lower left corner of the tool, or alternativly [click this link to load it automatically](http://openjscad.org/#universal_vertex_module.jscad).
+Simply drag and drop the `universal_vertex_module.jscad` file to the lower left corner of the tool, or alternativly [click this link to load it automatically](http://openjscad.org/#https://raw.githubusercontent.com/Nurgak/Universal-vertex-module/master/universal_vertex_module.jscad).
 
 ![Parametric Universal Vertex Module using OpenJSCAD](images/openjscad.png)
 
