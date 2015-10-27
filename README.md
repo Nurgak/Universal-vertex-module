@@ -35,6 +35,8 @@ To assemble the UVMs simply run a cable tie through the pyramid-shaped part and 
 ![Universal Vertex Module assembly, step 3](images/uvm_assembly_3.jpg)
 ![Universal Vertex Module assembly, step 4](images/uvm_assembly_4.jpg)
 ![Universal Vertex Module assembly, step 5](images/uvm_assembly_5.jpg)
+![Universal Vertex Module assembly, step 6](images/uvm_assembly_6.jpg)
+![Universal Vertex Module assembly, step 7](images/uvm_assembly_7.jpg)
 
 The lower part is intented for the connecting material, it can be any size, round or square (see parametric UVM). The UVM has holes on the sides, if the connecting material does not remain inside the UVM a hole can be drilled through the connecting material and a cable tie used to fix them together.
 
