@@ -8,7 +8,9 @@ The universal vertex module (UVM) allows to build complex structures by assembli
 
 ![Universal Vertex Module example structures](images/uvm_examples.png)
 
-The main purpose of the UVM is to build custom light structures, intended for such applications as a furniture (closet, table...) or as a primary structure support. It's versatility allows to use it for a night stand the same way as for a small tool shack.
+The main purpose of the UVM is to build custom light structures, intended for such applications as a furniture (closet, table...) or as a primary structure support. It's versatility allows to use it for a night stand the same way as for a small tool shack, or even a garage.
+
+![Universal Vertex Module example structures](images/uvm_examples_2.png)
 
 Only one design ensures consistency and modularity. Up to 5 modules can be assembled together, as at least one side must be left open so that the cable ties could be inserted and tightened.
 
